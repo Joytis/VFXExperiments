@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Beam01_Add
-  m_Shader: {fileID: -6465566751694194690, guid: 271abe29ef3e49e44a7e6eb56aff5262,
+  m_Name: Beam01_AB
+  m_Shader: {fileID: -6465566751694194690, guid: d57169c8b2387a245b2fd1eb8ff69568,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -28,4 +28,4 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats: []
     m_Colors:
-    - Color_DDD5BBAA: {r: 85.445015, g: 85.445015, b: 85.445015, a: 1}
+    - Color_DDD5BBAA: {r: 1, g: 1, b: 1, a: 1}

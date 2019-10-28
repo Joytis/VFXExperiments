@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Beam01_Add
+  m_Name: Crack01_Add
   m_Shader: {fileID: -6465566751694194690, guid: 271abe29ef3e49e44a7e6eb56aff5262,
     type: 3}
   m_ShaderKeywords: 
@@ -23,9 +23,9 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_9E72C3EF:
-        m_Texture: {fileID: 2800000, guid: 79724d3c489690440b14a0288dced180, type: 3}
+        m_Texture: {fileID: 2800000, guid: c0ed972a4ba6d044ba9ec3f96aa09650, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
     m_Colors:
-    - Color_DDD5BBAA: {r: 85.445015, g: 85.445015, b: 85.445015, a: 1}
+    - Color_DDD5BBAA: {r: 15.999998, g: 15.999998, b: 15.999998, a: 1}
